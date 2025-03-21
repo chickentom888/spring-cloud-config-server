@@ -3,4 +3,4 @@ server:
 
 order:
   service:
-    name: "Order Service - Dev"
+    name: "Order Service - Dev 01"
